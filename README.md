@@ -39,9 +39,8 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
 
 * React
 * TypeScript
-* FastAPI
+* Flask
 * Streamlit
-* SQLite
 * MySQL
 
 ### 🔥 Featured Projects
