@@ -9,7 +9,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
  
 **Languages**
  
-* Java
+* Java 
 * Python
 * C++
 * C
