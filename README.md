@@ -7,7 +7,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
  
 ### 🚀 What I'm Working With  
  
-**Languages**
+**Languages** 
  
 * Java 
 * Python
