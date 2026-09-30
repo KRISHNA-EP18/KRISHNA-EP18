@@ -10,9 +10,10 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
 **Languages**  
  
 * Java 
-* Python
+* Python 
 * C++
 * C
+* Fortran
 * TypeScript
 
 **AI / ML**
