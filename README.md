@@ -11,7 +11,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
   
 * Java 
 * Python 
-* C++
+* C++ 
 * C
 * Fortran
 * TypeScript
