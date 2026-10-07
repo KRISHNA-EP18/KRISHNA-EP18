@@ -14,7 +14,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
 * C++ 
 * C
 * Fortran
-* TypeScript
+* TypeScript 
  
 **AI / ML**
 
