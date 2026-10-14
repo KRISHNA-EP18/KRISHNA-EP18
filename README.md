@@ -13,7 +13,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
 * Python   
 * C++ 
 * C
-* Fortran
+* Fortran 
 * TypeScript 
  
 **AI / ML**
