@@ -19,7 +19,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
 **AI / ML**
 
 * TensorFlow
-* Scikit-learn
+* Scikit-learn 
 * OpenCV 
 * LangChain
 * NumPy
