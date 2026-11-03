@@ -18,7 +18,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
   
 **AI / ML**
 
-* TensorFlow
+* TensorFlow 
 * Scikit-learn 
 * OpenCV 
 * LangChain
