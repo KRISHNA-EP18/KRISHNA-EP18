@@ -16,7 +16,7 @@ I enjoy turning ideas into scalable software and intelligent systems, with a str
 * Fortran 
 * TypeScript 
    
-**AI / ML**
+**AI / ML** 
 
 * TensorFlow 
 * Scikit-learn 
